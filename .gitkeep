@@ -1,0 +1,47 @@
+cd bootstrap
+type null > .gitkeep
+
+cd docker
+type null > .gitkeep
+
+cd git
+type null > .gitkeep
+
+cd html-css
+type null > .gitkeep
+
+cd javascript
+type null > .gitkeep
+
+cd node
+type null > .gitkeep
+
+cd npm
+type null > .gitkeep
+
+cd php
+type null > .gitkeep
+
+cd python
+type null > .gitkeep
+
+cd react
+type null > .gitkeep
+
+cd react-native
+type null > .gitkeep
+
+cd sass
+type null > .gitkeep
+
+cd sql
+type null > .gitkeep
+
+cd swagger
+type null > .gitkeep
+
+cd tailwind
+type null > .gitkeep
+
+cd typescript
+type null > .gitkeep
